@@ -4,7 +4,33 @@
 
 }
 
-#Text-important{
+.Principal{
     font-size:50pm;
     text-decoration: underline;
+    
+    
+}
+
+.Rojo{
+    color: red;
+    
+    
+}
+
+.Verde{
+    color: green;
+    
+    
+}
+
+.Azul{
+    color: blue;
+    
+    
+}
+
+.Hover{
+    :hover
+    
+    
 }
