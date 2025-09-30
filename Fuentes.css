@@ -29,8 +29,11 @@
     
 }
 
-.Hover{
-    :hover
-    
-    
-}
+/* Text amb hover */
+      
+      
+      .hover-text:hover {
+        
+        color: orange;
+        cursor: pointer;
+      }
