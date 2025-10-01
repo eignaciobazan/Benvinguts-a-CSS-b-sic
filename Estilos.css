@@ -34,7 +34,7 @@
       
       .hover-text:hover {
         
-        color: orange;
+        color: red;
         cursor: pointer;
       }
 
@@ -78,9 +78,20 @@
 
   /* Ejemplo para elementos */
   
-  .Decoracion:: after {
-     color: blue;
-     content:
+  .Decoracion::after{
+     color: green;
+     content: " ✔";
+     
+
 
   } 
+
+   .Decoracion::before{
+     color: blue;
+     content: " 👉";
+     
+
+
+  } 
+  
   
