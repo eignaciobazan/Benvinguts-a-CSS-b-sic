@@ -1,5 +1,5 @@
 #titol {
-  font-size: 24px;
+  font-size: 10px;
   text-decoration: underline;
 
 }
@@ -37,3 +37,26 @@
         color: orange;
         cursor: pointer;
       }
+
+.Contacte  {
+    color: black
+
+    
+    
+}     
+
+.Contacte2  {
+  color: blue;
+  cursor: pointer;
+  font-size: 15px;
+    
+}    
+
+
+#P {
+     color: green
+  } 
+
+#P {
+     color: green
+  }   
