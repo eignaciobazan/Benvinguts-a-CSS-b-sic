@@ -78,9 +78,9 @@
 
   /* Ejemplo para elementos */
   
-  .Decoracion: : after {
+  .Decoracion:: after {
      color: blue;
-     content:: 
+     content:
 
   } 
   
