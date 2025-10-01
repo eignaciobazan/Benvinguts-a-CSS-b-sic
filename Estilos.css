@@ -1,5 +1,5 @@
 #titol {
-  font-size: 10px;
+  font-size: 20px;
   text-decoration: underline;
 
 }
@@ -38,6 +38,8 @@
         cursor: pointer;
       }
 
+/*Text sense hover */      
+
 .Contacte  {
     color: black
 
@@ -57,6 +59,28 @@
      color: green
   } 
 
-#P {
-     color: green
+.Texto_importante {
+     color: red;
+     font-weight: bold;
   }   
+
+  .Gran {
+     font-size:24px;
+  } 
+
+  .negreta {
+     font-weight: bold;
+  } 
+
+  .subrayat {
+     text-decoration: underline;
+  } 
+
+  /* Ejemplo para elementos */
+  
+  .Decoracion: : after {
+     color: blue;
+     content:: 
+
+  } 
+  
